@@ -1,4 +1,5 @@
 Application: HTK (speech recognition API)
+Homepage: http://htk.eng.cam.ac.uk/
 Description: This is a customized version of HTK which can be compiled in Mac OS
 
 
